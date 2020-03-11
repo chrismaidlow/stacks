@@ -1,9 +1,3 @@
-"""
-# Project 4
-# Name: Chris Maidlow
-# PID: A49592527
-"""
-
 class Stack:
     """
     Stack class
